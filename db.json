@@ -1,4 +1,5 @@
 [
+  cines:[
   {
     "id": 1,
     "nombre": "Cinemark",
@@ -16,5 +17,5 @@
     "nombre": "Cinecolombia",
     "latitud": 5.069596146808535,
     "longitud": -75.50975240315672
-  }
+  }]
 ]
